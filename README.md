@@ -1,24 +1,8 @@
-# README
+# SIMPLE BLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RAILS v6 
 
-Things you may want to cover:
+Simple blog ruby on rails website based on youtube tutorial TechmakerTV
 
-* Ruby version
+(link)[https://youtu.be/MCEzxY9BbiU]
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
